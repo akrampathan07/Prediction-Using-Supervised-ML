@@ -1,2 +1,2 @@
 # Prediction Using Supervised ML
-The tasks during internship of Sparks Foundation uploaded here 
+The Task1- Predict the percentage of student based on the no. of study hours. 
